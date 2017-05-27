@@ -426,9 +426,9 @@ th {
   padding: 0;
 }
 
-header {
+.header {
   padding: 40rpx
-  color: black;
+  background-color : black;
   font-weight: 100;
   text-align: center;
   font-color: white;
