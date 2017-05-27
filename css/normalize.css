@@ -428,12 +428,12 @@ th {
 
 .header {
   padding: 40rpx
-  background-color : black;
+  background-color: black;
   font-weight: 100;
   text-align: center;
   font-color: white;
   border: 1px solid #000;
-  font-family: sans-serif
+  font-family:'lato';
 
 }
 
