@@ -427,13 +427,27 @@ th {
 }
 
 header {
-  padding: 40rem
-  background-color: black;
-  font-family: railway;
+  padding: 40rpx
+  color: black;
+  font-weight: 100;
   text-align: center;
-   
+  font-color: white;
+  border: 1px solid #000;
+  font-family: sans-serif
+
 }
 
+#tutvustus {
+   border-bottom: : 1px solid #000;
+   text-align: center;
+   padding: 30px;
+
+}
+
+.title {
+  color: white;
+  font: 'lato' ;
+} 
 
 
 
